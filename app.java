@@ -11,5 +11,5 @@ int add(int a, int b) {
 }
 
 void info() {
-    IO.println("Feature: Three lines");
+    IO.println("Feature: Two line");
 }
