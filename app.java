@@ -13,3 +13,7 @@ int add(int a, int b) {
 void info() {
     IO.println("Feature: Two line");
 }
+
+double div(double a, double b) {
+    return a / b;
+}
